@@ -40,4 +40,4 @@ We are a school organization that focuses on maintaining and enhancing the Robot
 
 ## Social
 - [Facebook Page](https://www.facebook.com/profile.php?id=100093251496687)
-- [Facebook Page](https://www.facebook.com/profile.php?id=100094285818912)
+- [Facebook Page](https://www.facebook.com/profile.php?id=100094285818912) (Robotech)
