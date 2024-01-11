@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋 We are the Gumaca National High School Robotics Club :robot:
-</h1>
+<h1 align="center">We are the Gumaca National High School Robotics Club :robot:</h1>
 
 ![TheTeam](https://github.com/GNHS-Robotics-Club/.github/assets/79918051/1a268c89-4bd4-4d8b-9ecd-2a065634d8c4)
 
