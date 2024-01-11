@@ -19,7 +19,7 @@ We are a school organization based in Gumaca, Quezon, in the Philippines, that f
 - Matthew Angelo A. Asilo (Ambassador)
 - Gianne Thaia C. Bulan (Ambassadress)
 
-### The Robotech Members 📷
+### The Robotech Members 📰
 - Sir Jarry Mecantina (Adviser)
 - Sir Jaymar Oliveros (Adviser)
 - Justine Carl Jarapa (Editor-in-Chief, Manager of the Robotech Facebook page)
