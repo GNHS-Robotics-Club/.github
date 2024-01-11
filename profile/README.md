@@ -4,7 +4,7 @@
 
 We are a school organization based in Gumaca, Quezon, in the Philippines, that focuses on maintaining and enhancing the Robotics ecosystem of Gumaca National High School. In this Github organization, we provide APIs (Application Programming Interfaces) to our students or users to achieve their goals as simply and effectively as possible.
 
-## Club Members
+## Club Members 👨‍👩‍👦
 
 - Sir Jarry Mecantina (Head of the Robotics Club, Co-founder)
 - Sir Jaymar Oliveros (Head of the Robotics Club, Co-founder)
@@ -19,7 +19,7 @@ We are a school organization based in Gumaca, Quezon, in the Philippines, that f
 - Matthew Angelo A. Asilo (Ambassador)
 - Gianne Thaia C. Bulan (Ambassadress)
 
-### The Robotech Members
+### The Robotech Members 📷
 - Sir Jarry Mecantina (Adviser)
 - Sir Jaymar Oliveros (Adviser)
 - Justine Carl Jarapa (Editor-in-Chief, Manager of the Robotech Facebook page)
@@ -37,6 +37,6 @@ We are a school organization based in Gumaca, Quezon, in the Philippines, that f
 - Improving [APIR](https://github.com/GNHS-Robotics-Club/APIR)
 - Bringing [Rust](https://www.rust-lang.org/) to our ecosystem
 
-## Social
+## Socials 📱
 - [Facebook Page](https://www.facebook.com/profile.php?id=100093251496687)
 - [Facebook Page](https://www.facebook.com/profile.php?id=100094285818912) (Robotech)
