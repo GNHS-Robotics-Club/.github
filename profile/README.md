@@ -21,8 +21,8 @@ We are a school organization based in Gumaca, Quezon, in the Philippines, that f
 - Gianne Thaia C. Bulan (Ambassadress)
 
 ### The Robotech Members
-- Jarry Mecantina (Adviser)
-- Jaymar Oliveros (Adviser)
+- Sir Jarry Mecantina (Adviser)
+- Sir Jaymar Oliveros (Adviser)
 - Justine Carl Jarapa (Editor-in-Chief, Manager of the Robotech Facebook page)
 - Adrielle Bobadilla (Associate Editor)
 - Denise Lorraine Catipon (Column Editor)
