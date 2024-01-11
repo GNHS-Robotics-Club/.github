@@ -9,7 +9,7 @@ We are a school organization based in Gumaca, Quezon, in the Philippines, that f
 - Sir Jarry Mecantina (Head of the Robotics Club, Co-founder)
 - Sir Jaymar Oliveros (Head of the Robotics Club, Co-founder)
 - Lhander Magalona (Robotics Team Leader, Co-founder)
-- Arik Jehan Mendoza (President, The Lead Developer/Programmer, Maintainer of this Github Organization)
+- Arik Jehan "QuadraBoy" Mendoza (President, The Lead Developer/Programmer, Maintainer of this Github Organization)
 - Nikki F. Pedragoza (Vice President, Manager of our Facebook page)
 - Princess Elaine L. Morelo (Secretary)
 - Kristhian V. Trivinio (Treasurer)
