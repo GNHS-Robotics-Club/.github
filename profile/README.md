@@ -1,3 +1,1 @@
-## Hi there 👋
-
-This is the official GitHub organization of the Gumaca NHS Robotics Club!
+## Hi there! We are the Gumaca National High School Robotics Club :robot:!
